@@ -1,0 +1,3 @@
+This folder contains the clean data. 
+Since the original dataset starts from 2010, and S&P500 is constantly changing based on the market cap of companies, 
+the cleaning allows to keep those companies that exist since 2010 in the index.  
