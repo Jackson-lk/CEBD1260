@@ -1,1 +1,9 @@
 This is the web application driver
+
+1- Sharpe_Ratio.py to calculate the sharpe ratio using data from dataset "price_UtoD.csv"
+Output: Dataset "value.csv"
+
+2- TableAverage.py to average all data in dataset "stats_final.csv"
+Output: Dataset "stats_final_mean.csv"
+
+3- Application.py to run the web app
