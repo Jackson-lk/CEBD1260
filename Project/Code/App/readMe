@@ -5,3 +5,5 @@ Output : Dataset "stats_pred_SVM"
 
 2- RandomForestModel to predict the current values of user criteria (used in the web app) using output from SVM model
 Output : Dataset "stats_pred_RF"
+
+The rest of .ipynb are for exploring the tables and testing different models
